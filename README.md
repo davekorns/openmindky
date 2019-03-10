@@ -1,0 +1,2 @@
+# openmindky
+GitHub Pages
