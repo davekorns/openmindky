@@ -32,6 +32,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/cropped-om-icon-128x128.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "сanonical-url": "",
     "uniqCompNum": 16,
     "versionPublish": "4.9.5"
   },
